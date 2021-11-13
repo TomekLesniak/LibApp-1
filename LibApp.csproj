@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>aspnet-LibApp-31F1F608-A5A9-4B8A-8AD7-AC993737CF07</UserSecretsId>
     <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
   </PropertyGroup>
 
